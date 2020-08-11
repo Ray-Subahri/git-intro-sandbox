@@ -1,3 +1,7 @@
 This is my first feature.
+<<<<<<< HEAD
+The function of this feature is to be really, really redundant.
+=======
 The function of this feature is to be ...not redundant.
+>>>>>>> feature
 Have a nice day! 
